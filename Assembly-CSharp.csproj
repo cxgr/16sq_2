@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\ModelLoader.cs" />
+     <None Include="Assets\readme.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity2017/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
